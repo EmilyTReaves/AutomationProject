@@ -4,3 +4,5 @@ Step 1) Learn to understand & use Gauge/Selenium/CodedUI, etc -  whatever automa
 Step 2) Write Automation test cases (I'm sort of getting the hang of the Command line/Powershell)
 Step 3) Figure out how to connect Automation test cases/framework with the app I need to automate 
 Step 4) Celebrate/drink?
+
+EDIT: Pretty sure Katalon Studio is going to be it. https://www.katalon.com/ 
