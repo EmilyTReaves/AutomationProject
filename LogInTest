@@ -23,11 +23,11 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://managementportal-dev.occmasedev01.p.azurewebsites.net/login')
+WebUI.navigateToUrl('https://website-dev.net/login')
 
-WebUI.setText(findTestObject('Page_User Management/input_username'), 'Emily_Reaves@onecallcm.com')
+WebUI.setText(findTestObject('Page_User Management/input_username'), 'Username')
 
-WebUI.setText(findTestObject('Page_User Management/input_password'), 'Dontbe$tupid2018')
+WebUI.setText(findTestObject('Page_User Management/input_password'), 'Password')
 
 WebUI.click(findTestObject('Page_User Management/input_okta-signin-submit'))
 
