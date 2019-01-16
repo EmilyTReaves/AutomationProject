@@ -1,8 +1,9 @@
 # AutomationProject
 
-Step 1) Learn to understand & use Gauge/Selenium IDE/CodedUI, etc -  whatever automation tool works best for me as a mostly manual tester without coding experience (https://gauge.org/get-started.html)
-Step 2) Write Automation test cases (I'm sort of getting the hang of the Command line/Powershell)
-Step 3) Figure out how to connect Automation test cases/framework with the app I need to automate 
-Step 4) Celebrate/drink?
+Some basic tests using the free automation testing tool Katalon Studio. It uses coded UI to create an object repository and scripts (in Groovy) and runs them using Selenium. Playback and toggle into a "manual" mode where test cases/suites/projects can be written and organized in human-readable language is also a feature. API & mobile testing, as well as integrations with git, JIRA, and others are also perks. 
 
-EDIT: Pretty sure Katalon Studio is going to be it. https://www.katalon.com/ 
+More at:
+
+https://www.katalon.com/ 
+
+(I don't work for, am affiliate with, or get any benefit from promoting Katalon. I just am a fan. Especially after spending many months searching for a transitional tool to help me learn automation testing when I knew nothing about coding or API testing. Most of what I found initially had no UI and required me to run CMD prompts and expected me to be a developer or already have coding knowledge. Katalon Studio is completely different.)
